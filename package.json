@@ -1,0 +1,22 @@
+{
+  "name": "regexengine",
+  "version": "1.0.0",
+  "description": "A regex engine with 3 special characters ., * and ?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Narayanan-Chandrasekar/RegexEngine.git"
+  },
+  "author": "Narayanan Chandrasekar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Narayanan-Chandrasekar/RegexEngine/issues"
+  },
+  "homepage": "https://github.com/Narayanan-Chandrasekar/RegexEngine#readme",
+  "dependencies": {
+    "typescript": "^4.6.4"
+  }
+}
